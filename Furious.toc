@@ -1,0 +1,5 @@
+## Interface: 50300
+## Title: Furious
+## Notes: i are fury warrior hear me enrage
+Furious.lua
+Furious.xml
